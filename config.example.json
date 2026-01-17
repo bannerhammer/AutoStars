@@ -6,15 +6,15 @@
   },
   "BOT": {
     "enabled": 1,
-    "bot_token": "YOUR_BOT_TOKEN_HERE"
+    "bot_token": 8452195656:AAG6HOxQpragfk84bBO3eSU3EVFWol_d-VY
   },
   "FUNPAY": {
-    "golden_key": "YOUR_GOLDEN_KEY_HERE"
+    "golden_key": k6tgx2nqcpwr8xymh2fexz61iuchs11m
   },
   "SETTINGS": {
     "db_path": "db.json",
     "request_timeout": 10,
     "order_check_interval": 10,
-    "admin_telegram_id": null
+    "admin_telegram_id": @hakuroishiko
   }
 }
